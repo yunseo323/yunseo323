@@ -10,7 +10,7 @@ Currently, I'm working on 🐻[Bear Robotics CA](https://www.bearrobotics.ai/ser
 <br>
 Also I'm a senior in software department at Sejong Univ.
 <br>
-I'm interested in **Backend Development** these days☺️
+I'm interested in **Backend/Cloud/Robotics Development** these days☺️
 <br>
 Feel free to contact me any time!
 
