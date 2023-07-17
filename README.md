@@ -1,5 +1,5 @@
 
-## ✨Hi I'm Yunseo Choe(@yunseo323), a Software Developer✨
+## ✨Hi I'm Yunseo Choe(@yunseo323), a Software Engineer✨
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yunseo323)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunseo-choe-aa629524a/) 
