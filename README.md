@@ -7,6 +7,7 @@
 
 
 Currently, I'm working on 🐻[Bear Robotics CA](https://www.bearrobotics.ai/servi-intro-1?campaignid=15424220860&adgroupid=133321204554&term=bear%20robotics&gclid=Cj0KCQjwtO-kBhDIARIsAL6Lorf9nHCrfATTSJ73Nz8IkBN0qYpkuEQwGsyUP27BDVI164XJngIlzokaApWXEALw_wcB) as an INTERN in Cloud Team!
+
 I'm interested in **Backend/Cloud/Development** these days☺️
 <br>
 Feel free to contact me any time!
