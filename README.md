@@ -6,13 +6,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jokani3244833@gmail.com)
 
 
-Currently, I'm working on 🐻[Bear Robotics CA](https://www.bearrobotics.ai/servi-intro-1?campaignid=15424220860&adgroupid=133321204554&term=bear%20robotics&gclid=Cj0KCQjwtO-kBhDIARIsAL6Lorf9nHCrfATTSJ73Nz8IkBN0qYpkuEQwGsyUP27BDVI164XJngIlzokaApWXEALw_wcB) as an INTERN in Cloud Team!
-
-I'm interested in **Cloud/Backend Development** these days☺️
-<br>
-Feel free to contact me any time!
-
-
 <div align = "center">
 
 
